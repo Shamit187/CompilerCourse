@@ -1,0 +1,9 @@
+/logs/*.txt
+/sampleInput/*.c
+/sampleInput/allout.txt
+/input.txt
+/compiler.out
+/asmLibrary/compiledCode.txt
+/asmLibrary/optimizedCode.txt
+/generatedCode/*.asm
+/generatedCode/*.txt
